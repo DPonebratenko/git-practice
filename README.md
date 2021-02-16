@@ -12,7 +12,7 @@
 
 Настройка информации об авторе
 
-```
+```bash
 git config --global user.name "Git Practice"
 git config --global user.email git-practice@gmail.com
 ```
