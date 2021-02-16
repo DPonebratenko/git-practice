@@ -31,7 +31,7 @@ git status
 ```
 git status -s
 ```
-
+```
 git diff --cached
 
 git add file.txt
