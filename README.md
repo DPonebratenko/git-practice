@@ -18,20 +18,20 @@ git config --global user.email git-practice@gmail.com
 ```
 
 Инициализировать репозиторий
-```
+```bash
 git init
 ```
 
 Определение состояния файлов
-```
+```bash
 git status
 ```
 
 Сокращенный вывод статуса
-```
+```bash
 git status -s
 ```
-```
+```bash
 git diff --cached
 
 git add file.txt
@@ -41,47 +41,47 @@ git add ./
 ## Индексация
 
 Добавить к отслеживанию файл README.md
-```
+```bash
 git add README.md
 ```
 
 Добавить всю рабочую область
-```
+```bash
 git add :/
 ```
 
 git add :/path/to/files/
 
 ## Коммиты
-```
+```bash
 git commit -m "My first commit"
 
 ```
 
 Информация о последнем коммите
-```
+```bash
 git show
 ```
 
 Просмотр истории коммитов
-```
+```bash
 git log
 ```
 
 ## Ветвление
-```
+```bash
 
 
 ```
 
 ## Исключения
-```
+```bash
 
 
 ```
 
 ## Работа с удаленным репозиторием
-```
+```bash
 
 
 ```
